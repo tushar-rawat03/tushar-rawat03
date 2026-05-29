@@ -114,11 +114,4 @@
 
 ---
 
-# ✨ Fun Fact
 
-```javascript
-while(!success){
-    keepLearning();
-    keepBuilding();
-}
-```
