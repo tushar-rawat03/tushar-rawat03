@@ -104,9 +104,13 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=tushar-rawat03&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-rawat03&layout=compact&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tushar-rawat03&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=tushar-rawat03&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
