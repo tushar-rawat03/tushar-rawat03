@@ -2,108 +2,115 @@
 
 <h3 align="center">Frontend / Full Stack Developer from India 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-rawat03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently learning Advanced Full Stack Development
 - 💻 Passionate about Web Development and Problem Solving
-- 🚀 Building scalable MERN Stack applications
-- 📊 Interested in Data Analysis using Pandas & NumPy
-- 🎯 Preparing for Software Development Roles
-- 📫 Reach me at: **rawatushar38@gmail.com**
+- ⚡ Love building MERN Stack Projects
+- 📊 Also interested in Data Analysis using Pandas & NumPy
+- 📫 Reach me at: rawatushar38@gmail.com
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/tushar-rawat03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com)
+
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
-</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-### 🎨 Frontend
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
-</p>
-
-### 🛠 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+### 🎨 Frontend Development
 
-### 💬 ChatHub
-A real-time chat application built using MERN Stack and Socket.IO.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### 💼 Job Portal
-A full-stack job portal with authentication, job posting, and application management.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-### 🎮 Simon Game
-Interactive memory game built with HTML, CSS, and JavaScript.
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</p>
+
+---
+
+### 🗄 Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+### 📊 Data Analysis
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-rawat03&show_icons=true&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-rawat03&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-rawat03&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar-rawat03&theme=tokyonight&margin-w=15" />
-</p>
 
 ---
 
-## 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-⭐ If you like my work, consider following me on GitHub!
